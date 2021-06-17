@@ -1,0 +1,17 @@
+C:\Users\Ege\source\repos\LSRP\LSRP\bin\Debug\LSRP.exe.config
+C:\Users\Ege\source\repos\LSRP\LSRP\bin\Debug\LSRP.exe
+C:\Users\Ege\source\repos\LSRP\LSRP\bin\Debug\LSRP.pdb
+C:\Users\Ege\source\repos\LSRP\LSRP\obj\Debug\LSRP.Form1.resources
+C:\Users\Ege\source\repos\LSRP\LSRP\obj\Debug\LSRP.Properties.Resources.resources
+C:\Users\Ege\source\repos\LSRP\LSRP\obj\Debug\LSRP.csproj.GenerateResource.cache
+C:\Users\Ege\source\repos\LSRP\LSRP\obj\Debug\LSRP.csproj.CoreCompileInputs.cache
+C:\Users\Ege\source\repos\LSRP\LSRP\obj\Debug\LSRP.exe
+C:\Users\Ege\source\repos\LSRP\LSRP\obj\Debug\LSRP.pdb
+C:\Users\Ege\source\repos\LSRP\LSRP\obj\Debug\LSRP.Form2.resources
+C:\Users\Ege\source\repos\LSRP\LSRP\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ege\source\repos\LSRP\LSRP\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ege\source\repos\LSRP\LSRP\obj\Debug\LSRP.csproj.CopyComplete
+C:\Users\Ege\source\repos\LSRP\LSRP\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Ege\source\repos\LSRP\LSRP\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Ege\source\repos\LSRP\LSRP\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Ege\source\repos\LSRP\LSRP\obj\Debug\LSRP.csprojAssemblyReference.cache
